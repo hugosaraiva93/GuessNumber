@@ -15,3 +15,6 @@ Site com numeros de advinhaçao
 
 * Udemy
 https://www.udemy.com/
+<div style="display: inline_block">
+<img align:"center"; height="25" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white"/>
+</div>
